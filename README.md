@@ -65,6 +65,3 @@ This project provides a detailed analysis of the top 10 most popular movies from
 
 ## Data Source
 This project uses IMDb data, which can be downloaded from the official IMDb dataset page [here](https://www.imdb.com/interfaces/).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
