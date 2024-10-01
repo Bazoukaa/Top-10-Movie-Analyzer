@@ -64,4 +64,4 @@ This project provides a detailed analysis of the top 10 most popular movies from
 - matplotlib
 
 ## Data Source
-This project uses IMDb data, which can be downloaded from the official IMDb dataset page [here](https://www.imdb.com/interfaces/).
+This project uses IMDb data, which can be downloaded from the csv files uploaded here in this repo.
